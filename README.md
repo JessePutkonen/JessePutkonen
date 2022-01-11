@@ -6,4 +6,4 @@ Meikäläisen saa kiinni ainakin kiinni <a href="mailto:jesseputki@hotmail.com">
 Täällä GitHubissa ylläpidän omaa skirpti- kuin (olematonta) koodaustaitoanikin yllä.
 
 
-
+Tästä pääset meikäläisen <a href="https://github.com/users/JessePutkonen/projects/1">Powershell-skripteihin.</a>, joita on tullut käytettyä työssä. Muistathan lukea Readme.txt-tiedoston. 
