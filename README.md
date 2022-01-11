@@ -7,3 +7,6 @@ Täällä GitHubissa ylläpidän omaa skirpti- kuin (olematonta) koodaustaitoani
 
 
 Tästä pääset meikäläisen <a href="https://github.com/users/JessePutkonen/projects/1">Powershell-skripteihin.</a>, joita on tullut käytettyä työssä. Muistathan lukea Readme.txt-tiedoston. 
+
+Meikäläisen CV:n saat ladattua tosta alta, jos kiinnosteleepi tutustua työhistoriaan vielä tarkemmin. 
+<th><a href="kansio/cv.pdf" target="_blank"><img alt="CV" title="CV" height="32" width="32" src="kansio/cv.svg"></a></th>
